@@ -1,0 +1,19 @@
+.jumbotron{
+    background-color: #093489;
+    color: white;
+}
+
+
+.carousel-inner{
+   margin:0px auto;
+   box-shadow: 0 0 20px 6px black;
+    background-color: #f4f2e1;
+}
+
+.carousel-control-prev{
+    background-color: #025aa5
+}
+
+.carousel-control-next{
+    background-color: #025aa5
+}
